@@ -1,0 +1,37 @@
+h1{
+    background-color: red;
+    text-align: center;
+
+}
+.bike1{
+    background-color: violet;
+    text-align: center;
+
+}
+.bike2{
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+.bike3{
+    background-color: lightcoral;
+    text-align: center;
+}
+.bike4{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.name{
+    background-color: blue;
+    text-align: center;
+    font-size: larger;
+    color: red;
+}
+.name2{
+    color: white;
+    font-size: small;
+}
+.name3{
+    background-color: yellow;
+    
+}
